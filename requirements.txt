@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-mistralai
+langchain-core
+tavily-python
+beautifulsoup4
+trafilatura
+readability-lxml
+requests
+python-dotenv
+pypdf
+python-docx
+rich
